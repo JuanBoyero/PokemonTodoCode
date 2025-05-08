@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ejerciciopokemonpropio.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-05-08T22:29:37" hostname="juani-Aspire-A315-34" time="0.185">
+  <properties/>
+  <testcase name="appHasAGreeting()" classname="ejerciciopokemonpropio.AppTest" time="0.185"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
